@@ -14,7 +14,9 @@ FUNCIONALIDADES:
         Observações
         Data e Hora
 
-    Pesquisar visitantes
+    Pesquisar visitantes no registro
         Placa
 
     Registrar visita
+
+    Gerar relatório diário
