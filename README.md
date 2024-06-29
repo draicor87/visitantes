@@ -1,18 +1,25 @@
-# visitantes
+  # visitantes
 Projéto de Software para Controle de Acesso
 
 
 
 FUNCIONALIDADES:
 
+Cadastrar Moradores
+        Nome
+        Rua
+        Número
+        Lote
+        Quadra
+        Observações
+
+
     Cadastrar vistantes
         Nome
         RG/CPF
-        Destino
         Placa
         Carro
         Observações
-        Data e Hora
 
     Pesquisar visitantes no registro
         Placa
